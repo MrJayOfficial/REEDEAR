@@ -50,8 +50,6 @@ play_img = os.path.join(play_pathh, play_pathh)
 home_buton_path = "C:\\Users\\tanze\\Downloads\\codeforsell\\Reedear\\Images\\homenewt.png"
 
 home_img= os.path.join(home_buton_path, home_buton_path)
-
-
 audio_file_path = ""
 result_text = ""
 pdf_page_num = None
